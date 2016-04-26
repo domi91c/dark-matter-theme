@@ -1,0 +1,1 @@
+A Material based theme for Jetbrains. Currently optimized for HTML, Javascript and Ruby.
